@@ -54,3 +54,6 @@ docs/_build/
 
 # Pycharm directory?
 .idea
+
+# Sqlite databases
+*.sqlite3
